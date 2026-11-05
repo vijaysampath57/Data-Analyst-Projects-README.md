@@ -26,9 +26,6 @@ This repository contains an end-to-end business intelligence project analyzing t
 4. **Date Parsing:** Converted text field `date_added` into standard `Date` format to build a dynamic calendar table for time intelligence.
 
 ---
+<img width="1172" height="742" alt="image" src="https://github.com/user-attachments/assets/aa415e3d-bba6-463b-a5db-25d99ba246e7" />
 
-## 📐 Key DAX Measures
 
-### 1. Total Content & Category Counts
-```dax
-Total Titles = COUNTROWS('netflix_titles')
