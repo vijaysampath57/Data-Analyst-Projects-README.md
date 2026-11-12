@@ -45,5 +45,6 @@ The dataset consists of employee records with demographic, job-related, and surv
   - Interactive slicers (Department, Education Field, OverTime, Age Cohort).
   - Bookmark controls to toggle between **Executive Overview**, **Attrition Deep Dive**, and **Demographics & Sentiment**.
 
----
-<img width="1307" height="741" alt="image" src="https://github.com/user-attachments/assets/e46d7c1d-21ba-40b4-9e8c-48cc37e88054" />
+--
+<img width="1316" height="732" alt="image" src="https://github.com/user-attachments/assets/e013af30-d270-4c78-b864-b2ce533151d9" />
+
