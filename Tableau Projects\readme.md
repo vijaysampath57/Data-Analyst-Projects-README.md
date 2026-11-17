@@ -2,9 +2,7 @@
 
 An interactive business intelligence dashboard built in **Tableau** exploring Netflix’s global streaming library of **8,807 titles** (6,131 Movies and 2,676 TV Shows). This project uncovers catalog distribution, year-over-year expansion, regional production dominance, and target audience demographics.
 
-🔗 **[View Live Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)**
-
-![Netflix Tableau Dashboard Preview](dashboard_preview.png)
+![Netflix Tableau Dashboard Preview]<img width="1606" height="857" alt="Screenshot 2026-11-17 225730" src="https://github.com/user-attachments/assets/1b6d7468-57c3-496a-8b92-95dbe09361b8" />
 
 ---
 
